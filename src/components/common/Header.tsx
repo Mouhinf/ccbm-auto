@@ -14,7 +14,7 @@ export function Header() {
              <Link href="/" className="flex items-center gap-2" aria-label="Accueil">
               <Logo />
               <span className="font-headline text-2xl font-bold tracking-tight text-primary">
-                EMG Auto Market
+                CCBM Auto Market
               </span>
             </Link>
         </div>
@@ -26,7 +26,7 @@ export function Header() {
                  <Link href="/" className="flex items-center gap-2 justify-center" aria-label="Accueil">
                     <Logo />
                     <span className="font-headline text-lg font-bold tracking-tight text-primary">
-                        EMG Auto Market
+                        CCBM Auto Market
                     </span>
                 </Link>
             </div>

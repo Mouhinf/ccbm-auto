@@ -1,4 +1,4 @@
-# **App Name**: EMG Auto Market
+# **App Name**: CCBM Auto Market
 
 ## Core Features:
 

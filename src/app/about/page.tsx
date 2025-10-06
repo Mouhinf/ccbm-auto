@@ -8,7 +8,7 @@ export default function AboutPage() {
       <div className="space-y-12">
         <div className="text-center">
           <h1 className="font-headline text-4xl md:text-5xl text-primary tracking-wider">
-            À Propos de EMG Universal Auto
+            À Propos de CCBM Automobile
           </h1>
           <p className="mt-4 text-lg max-w-3xl mx-auto text-muted-foreground">
             Votre partenaire de confiance pour l'automobile au Sénégal et en Afrique de l'Ouest.
@@ -25,7 +25,7 @@ export default function AboutPage() {
             </CardHeader>
             <CardContent className="text-lg space-y-4 text-foreground/80">
               <p>
-                Fondée dans les années 1990 par M. Mbaye Guèye, EMG Universal Auto a commencé par distribuer des pièces d'origine pour véhicules allemands. Rapidement, nous sommes devenus un concessionnaire multimarques indépendant, engagé à fournir des véhicules de qualité adaptés aux réalités locales.
+                Fondée en 2005 par M. Serigne Mboup, CCBM Automobile est un concessionnaire automobile 100% sénégalais, engagé à fournir des véhicules de qualité adaptés aux réalités locales.
               </p>
               <p>
                 Notre parcours est marqué par une croissance constante, alimentée par la confiance de nos clients et notre dévouement à l'excellence.
@@ -34,8 +34,8 @@ export default function AboutPage() {
           </Card>
            <div className="rounded-lg overflow-hidden shadow-lg aspect-video">
               <Image
-                src="/entree-emg.jpg"
-                alt="Usine de montage EMG"
+                src="/entree-CCBM.jpg"
+                alt="Usine de montage CCBM"
                 width={800}
                 height={600}
                 className="object-cover w-full h-full"
@@ -80,7 +80,7 @@ export default function AboutPage() {
                 </CardHeader>
                 <CardContent className="text-lg text-foreground/80">
                     <p>
-                    Avec la relance de l'usine de montage Seniran à Thiès, nous produisons localement pour le marché ouest-africain, créant des emplois et favorisant le transfert de compétences.
+                    L’entreprise possède la première usine de montage au Sénégal et met un point d’honneur sur un service après-vente rigoureux pour garantir la longévité et la performance des véhicules. CCBM se positionne comme une fierté locale et un moteur de mobilité durable et adaptée au marché sénégalais.
                     </p>
                 </CardContent>
             </Card>
@@ -93,7 +93,7 @@ export default function AboutPage() {
                 </CardHeader>
                 <CardContent className="text-lg text-foreground/80">
                     <p>
-                    Pour simplifier votre expérience d'achat et de location, EMG a lancé cette application. Elle vous permet d'explorer notre catalogue, de comparer les véhicules et de nous contacter, rendant la mobilité plus accessible et transparente.
+                    Pour simplifier votre expérience d'achat et de location, CCBM a lancé cette application. Elle vous permet d'explorer notre catalogue, de comparer les véhicules et de nous contacter, rendant la mobilité plus accessible et transparente.
                     </p>
                 </CardContent>
             </Card>

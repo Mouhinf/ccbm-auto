@@ -35,7 +35,7 @@ const AppShell = ({ children }: { children: React.ReactNode }) => {
                     <Link href="/" className="flex items-center gap-2" aria-label="Accueil" onClick={handleLinkClick}>
                         <Logo />
                         <span className="font-headline text-2xl font-bold tracking-tight text-primary">
-                            EMG Auto Market
+                            CCBM Auto Market
                         </span>
                     </Link>
                 </SidebarHeader>

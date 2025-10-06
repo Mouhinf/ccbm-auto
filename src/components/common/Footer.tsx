@@ -3,7 +3,7 @@ export function Footer() {
   return (
     <footer className="bg-muted py-6">
       <div className="container mx-auto px-4 text-center text-muted-foreground">
-        <p>&copy; {currentYear} EMG Universal Auto. Tous droits réservés.</p>
+        <p>&copy; {currentYear} CCBM Automobile. Tous droits réservés.</p>
         <p className="text-sm">Conçu pour le marché Sénégalais.</p>
       </div>
     </footer>

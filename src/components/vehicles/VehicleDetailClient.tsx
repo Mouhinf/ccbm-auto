@@ -162,7 +162,7 @@ export default function VehicleDetailClient({ vehicle }: { vehicle: Vehicle }) {
                                <DialogHeader>
                                    <DialogTitle className="font-headline text-2xl">Demande envoyée !</DialogTitle>
                                    <DialogDescription>
-                                       Merci pour votre intérêt. Un conseiller EMG Universal Auto vous contactera très prochainement pour donner suite à votre demande.
+                                       Merci pour votre intérêt. Un conseiller CCBM Automobile vous contactera très prochainement pour donner suite à votre demande.
                                    </DialogDescription>
                                </DialogHeader>
                                <DialogClose asChild>
